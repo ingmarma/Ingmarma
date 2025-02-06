@@ -1,4 +1,27 @@
-## Hi there 👋
+## Hola, soy Matias Martinez 👋
+<h3>Desarrollador Java Full Stack con conocimientos en el diseño y desarrollo de aplicaciones web completas, desde el front-end hasta el back-end. Experiencia en tecnologías Java, como Spring Boot, y en bases de datos SQL. Capaz de implementar y desplegar aplicaciones en entornos de producción. Hábil en la creación de interfaces de usuario responsivas utilizando HTML, CSS y JavaScript, así como en la integración de servicios RESTful. Comprometido con la resolución de problemas complejos, la optimización del rendimiento y la colaboración en equipos ágiles.</h3>
+
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
 <!--
 **ingmarma/Ingmarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
